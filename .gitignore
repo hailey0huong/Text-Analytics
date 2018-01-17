@@ -1,0 +1,4 @@
+# ignored folder
+ckpt/
+pre_trained_w2v/
+*.zip
